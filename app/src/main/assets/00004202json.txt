@@ -1,0 +1,46 @@
+{
+"TypeName":"购物点详情",
+"Name":"第一市场",
+"Location":{"lat":"18.245193","lng":"109.513483"},
+"Level":"4",
+"LevelDesc":"海鲜水果琳琅满目 ",
+"Cover":"Shopping2.jpg",
+"Introduce":"第一市场不仅仅有丰富的海鲜水果，也是贩卖很多小商品和岛服的商家聚集地。许多东西是可以砍价的哦。",
+"ExtraInfos":[
+ {
+"Title":"推荐购买",
+"Contents":[
+"海鲜水果"
+]
+},
+ {
+            "Title": "地址",
+            "Contents": [
+                "三亚河西区解放一路"
+            ],
+            "DataType": "Address"
+        },
+        {
+            "Title": "交通",
+            "Contents": [
+                "乘坐2路、4路、7路、8路、10路公交车，在“第一市场站”下车，步行一百米即到。"
+            ]
+        },	
+        {
+            "Title": "开放时间",
+            "Contents": [
+                "10:00 -23：00"
+            ]
+        },
+        {
+            "Title": "电话",
+            "Contents": [
+                "13876572523"
+            ],
+            "DataType": "Phone"
+        }
+
+]
+}
+
+ 

@@ -1,0 +1,40 @@
+{
+"TypeName":"住宿详情",
+"Name":"金棕榈度假酒店",
+"Cover":"Hotel6.jpg",
+    "Location": {
+        "lat": "18.238087",
+        "lng": "109.656431"
+    },
+"Level":"4",
+"LevelDesc":"喜爱海滩者的首选",
+"Introduce":"与海滩隔着马路与绿化带，楼层不高的话，看不到海滩，但是能看到海面。",
+"ExtraInfos":[
+{
+"Title":"参考价格",
+"Contents":[
+"园景房740起"
+]
+},
+{
+"Title":"星级",
+"Contents":[
+"4星"
+]
+},
+{
+"Title":"地址",
+"Contents":[
+"亚龙湾"
+],
+"DataType":"Address"
+},
+{
+"Title":"电话",
+"Contents":[
+"0898-88569988"
+],
+"DataType":"Phone"
+}
+]
+}

@@ -1,0 +1,53 @@
+{
+	"TypeName":"游记详情",
+	"Name":"【浮生半日闲】三亚6天5晚★鸟巢,亚龙湾,仙人掌,蜈支洲,铂尔曼★ ",
+	"Url":"http://lvyou.baidu.com/notes/webapp/view?nid=09b189e2b755a75af36c09b1",
+	"Author":"dummydollsu",
+	"StartTime":"20110320",	
+	"EndTime":"20110325",	
+	"MainBody": [
+	{
+		"DataType":"Text",	
+		"Content":"【前序】"
+	},
+		{
+		"DataType":"Text",	
+		"Content":"无论目的地，这场旅行，对于很久之前的我来说，都只存在于梦境中。梦想照进现实的美妙历程，转瞬即逝了，以至于已经回家了，还是感觉到各种的不真实。"
+	},
+		{
+		"DataType":"Text",	
+		"Content":"这次美好的三亚行，完全得益于朋友。这些日子的很多事情，让这个时候的我，确实需要一场旅行，偷得浮生半日闲。面朝大海，春暖花开。 "
+	},
+		{
+		"DataType":"Image",	
+		"Content":"00004601.jpg"
+	},
+		{
+		"DataType":"Text",	
+		"Content":"由于之前已经去过2次三亚了，所以这次没有基本上没什么景点。酒店和机票，都是自己在网上找的。"
+	},
+			{
+		"DataType":"Text",	
+		"Content":"第一次为了去一个地方，花了这么多的时间和精力去设计。不过后来的事实证明，这些是值得的。"
+	},
+			{
+		"DataType":"Text",	
+		"Content":"旅行中，好运气一直伴随着我们。"
+	},
+	{
+		"DataType":"Image",
+		"Content":"00004602.jpg"
+	}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+

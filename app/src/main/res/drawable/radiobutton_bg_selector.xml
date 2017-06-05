@@ -1,0 +1,4 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true" android:drawable="@mipmap/caidan"></item>
+    <item android:drawable="@mipmap/caidan_pure_bkg"></item>
+</selector>

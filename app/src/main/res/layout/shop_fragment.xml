@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="20dp">
+
+        <ImageView
+                android:id="@+id/btn_shop_back"
+                android:clickable="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/btn_list_back"/>
+        <TextView
+                android:layout_weight="1"
+                android:gravity="right"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/shop2"/>
+        <TextView
+                android:id="@+id/tv_shop_change"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/askresponse"/>
+        <ImageView
+                android:id="@+id/btn_shop_menu"
+                android:clickable="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/btn_mulu_normal"/>
+    </LinearLayout>
+
+    <LinearLayout
+            android:id="@+id/shop_pagechange"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="10dp">
+        <ImageView
+                android:id="@+id/shop_dian1"
+                android:src="@mipmap/ic_dian_focused"
+
+                android:layout_gravity="right"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        <ImageView
+                android:id="@+id/shop_dian2"
+                android:src="@mipmap/ic_dian_normal"
+                android:paddingLeft="10dp"
+                android:layout_gravity="left"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+    <android.support.v4.view.ViewPager
+            android:id="@+id/vp_shop"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+    </android.support.v4.view.ViewPager>
+
+</LinearLayout>

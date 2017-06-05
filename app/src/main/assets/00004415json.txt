@@ -1,0 +1,47 @@
+{
+"TypeName":"住宿详情",
+"Name":"三亚迷途驴友国际青年旅舍",
+"Cover":"Hotel9.jpg",
+    "Location": {
+        "lat": "18.222456",
+        "lng": "109.501449"
+    },
+"Level":"3",
+"LevelDesc":"背包客聚集地",
+"Introduce":"位于大东海，座落于鹿回头山腰，半山锦江贵宾楼旁，交通便捷，距海边300米。旅舍是由一座四层的复式建筑和一个超大的充满绿意的院落构成。",
+"ExtraInfos":[
+{
+"Title":"参考价格",
+"Contents":[
+"床位40起"
+]
+},
+{
+"Title":"星级",
+"Contents":[
+"无"
+]
+},
+{
+"Title":"地址",
+"Contents":[
+"三亚市鹿回头村四组162号"
+],
+"DataType":"Address"
+},
+{
+"Title":"电话",
+"Contents":[
+"0898-88226514"
+],
+"DataType":"Phone"
+},
+{
+"Title":"网站",
+"Contents":[
+"http://www.yhachina.com/ls.php?id=243"
+],
+"DataType":"Website"
+}
+]
+}

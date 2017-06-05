@@ -1,0 +1,295 @@
+{
+    "TypeName": "实用信息 - 服务电话",
+    "Infos": [
+        {
+            "DataType": "Title",
+            "Contents": [
+                "银行"
+            ]
+        },
+	{
+            "DataType": "SubTitle",
+            "Contents": [
+                "哈尔滨医科大学附属第一医院"
+            ]
+        },
+        {
+            "DataType": "Text",
+            "Contents": [
+                "地址：南岗区邮政街23号 "
+            ]
+        },
+        {
+            "DataType": "Phone",
+            "Contents": [
+                "0451-53643849"
+            ]
+        },
+	 {
+            "DataType": "SubTitle",
+            "Contents": [
+                "哈尔滨医科大学附属第二医院"
+            ]
+        },
+        {
+            "DataType": "Text",
+            "Contents": [
+                "地址：哈尔滨市南岗区学府路246号 "
+            ]
+        },
+        {
+            "DataType": "Phone",
+            "Contents": [
+                "0451-86662961,0451-86664369"
+            ]
+        },
+	 {
+            "DataType": "SubTitle",
+            "Contents": [
+                "黑龙江中医药大学附属第一医院"
+            ]
+        },
+        {
+            "DataType": "Text",
+            "Contents": [
+                "地址：黑龙江省哈尔滨市香坊区和平路26号  "
+            ]
+        },
+        {
+            "DataType": "Phone",
+            "Contents": [
+                "0451-82111401"
+            ]
+        },
+	        {
+            "DataType": "Title",
+            "Contents": [
+                "医院"
+            ]
+        },
+        {
+            "DataType": "SubTitle",
+            "Contents": [
+                "哈尔滨医科大学附属第一医院"
+            ]
+        },
+        {
+            "DataType": "Text",
+            "Contents": [
+                "地址：南岗区邮政街23号 "
+            ]
+        },
+        {
+            "DataType": "Phone",
+            "Contents": [
+                "0451-53643849"
+            ]
+        },
+	 {
+            "DataType": "SubTitle",
+            "Contents": [
+                "哈尔滨医科大学附属第二医院"
+            ]
+        },
+        {
+            "DataType": "Text",
+            "Contents": [
+                "地址：哈尔滨市南岗区学府路246号 "
+            ]
+        },
+        {
+            "DataType": "Phone",
+            "Contents": [
+                "0451-86662961,0451-86664369"
+            ]
+        },
+	 {
+            "DataType": "SubTitle",
+            "Contents": [
+                "黑龙江中医药大学附属第一医院"
+            ]
+        },
+        {
+            "DataType": "Text",
+            "Contents": [
+                "地址：黑龙江省哈尔滨市香坊区和平路26号  "
+            ]
+        },
+        {
+            "DataType": "Phone",
+            "Contents": [
+                "0451-82111401"
+            ]
+        },
+        {
+            "DataType": "Title",
+            "Contents": [
+                "紧急电话"
+            ]
+        },
+	 {
+            "DataType": "SubTitle",
+            "Contents": [
+                "旅游质量投诉："
+            ]
+        },
+        {
+            "DataType": "Phone",
+            "Contents": [
+                "0451-87010055,0451-84664315"
+            ]
+        },
+        {
+            "DataType": "SubTitle",
+            "Contents": [
+                "问路热线："
+            ]
+        },
+	        {
+            "DataType": "Phone",
+            "Contents": [
+                "0451-10109998"
+            ]
+        },
+	{
+	           "DataType": "Title",
+            "Contents": [
+                "邮局"
+            ]
+        },
+        {
+            "DataType": "SubTitle",
+            "Contents": [
+                "哈尔滨市邮政局南岗火车站支局"
+            ]
+        },
+        {
+            "DataType": "Text",
+            "Contents": [
+                "地址：南岗区铁路街12号 "
+            ]
+        },
+        {
+            "DataType": "Phone",
+            "Contents": [
+                "0451-53630259"
+            ]
+        },
+	 {
+            "DataType": "SubTitle",
+            "Contents": [
+                "哈尔滨市邮政局道里区邮电局中央大街邮电支局网点"
+            ]
+        },
+        {
+            "DataType": "Text",
+            "Contents": [
+                "地址：道里区中央大街115号 "
+            ]
+        },
+        {
+            "DataType": "Phone",
+            "Contents": [
+                "0451-84615589"
+            ]
+        },
+	  {
+            "DataType": "Title",
+            "Contents": [
+                "上网"
+            ]
+        },
+	        {
+            "DataType": "Text",
+            "Contents": [
+                "哈尔滨有多处网吧，很多旅店可提供宽带上网。部分旅店和餐厅会提供WiFi服务。"
+            ]
+        },
+		        {
+            "DataType": "Text",
+            "Contents": [
+                "哈尔滨提供免费WiFi的公共场所很少，火车站只有联通VIP候车室有免费WiFi，在102路终点站友谊路防洪纪念塔、百脑汇负商场一层、秋林国际商厦、金安欧罗巴购物广场、黑大体育馆有免费的WiFi信号。"
+            ]
+        },
+	{
+	           "DataType": "Title",
+            "Contents": [
+                "旅游信息"
+            ]
+        },
+        {
+            "DataType": "SubTitle",
+            "Contents": [
+                "哈尔滨市旅游信息咨询服务中心"
+            ]
+        },
+        {
+            "DataType": "Text",
+            "Contents": [
+                "首家市级旅游公益性服务机构，紧邻中央大街步行街。 "
+            ]
+        },
+	        {
+            "DataType": "Text",
+            "Contents": [
+                "地址：道里区西十四道街48号 "
+            ]
+        },
+        {
+            "DataType": "Phone",
+            "Contents": [
+                "0451-87656661"
+            ]
+        },
+	 {
+            "DataType": "SubTitle",
+            "Contents": [
+                "中央大街游客服务中心"
+            ]
+        },
+        {
+            "DataType": "Text",
+            "Contents": [
+                "位于中央大街与西三道街交口处，设有中央大街历史文化展示区、旅游信息咨询区、旅游纪念品售卖区、影音虚拟体验区等四大功能区。 "
+            ]
+        },
+	        {
+            "DataType": "Text",
+            "Contents": [
+                "地址：道里区西三道街 "
+            ]
+        },
+        {
+            "DataType": "Phone",
+            "Contents": [
+                "0451-87650401"
+            ]
+        },
+	{
+	           "DataType": "Title",
+            "Contents": [
+                "旅行社"
+            ]
+        },
+        {
+            "DataType": "SubTitle",
+            "Contents": [
+                "黑龙江天马国际旅行社有限公司"
+            ]
+        },
+        {
+            "DataType": "Text",
+            "Contents": [
+                "地址：哈尔滨市南岗区花园街197号 "
+            ]
+        },
+        {
+            "DataType": "Phone",
+            "Contents": [
+                "0451-53646158"
+            ]
+        }
+      
+    ]
+}
+

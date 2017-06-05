@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:background="#b9111111"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:background="#2effffff"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/shop"
+        android:textColor="#898989"
+        android:id="@+id/textView"/>
+
+    <LinearLayout
+        android:id="@+id/arrive"
+        android:padding="2dp"
+        android:clickable="true"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="20dp">
+        <ImageView
+            android:background="@drawable/selector_tjct"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"/>
+        <TextView
+            android:textColor="#898989"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginLeft="7dp"
+            android:text="@string/ddtc"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/loadtraffic"
+        android:padding="2dp"
+        android:clickable="true"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="20dp">
+        <ImageView
+            android:layout_gravity="center"
+            android:background="@drawable/selector_gwd"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"/>
+        <TextView
+            android:textColor="#898989"
+            android:layout_marginLeft="2dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/gwdtj"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"/>
+
+    </LinearLayout>
+
+</LinearLayout>

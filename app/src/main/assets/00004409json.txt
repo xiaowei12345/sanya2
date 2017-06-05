@@ -1,0 +1,40 @@
+{
+"TypeName":"住宿详情",
+"Name":"金广快捷酒店",
+"Cover":"Hotel11.jpg",
+    "Location": {
+        "lat": "18.259391",
+        "lng": "109.510737"
+    },
+"Level":"4",
+"LevelDesc":"价格经济交通便利",
+"Introduce":"坐落于三亚市中心的中心地带，金广快捷酒店（三亚解放路店）是游览三亚的最佳下榻酒店。在这里，旅客们可轻松前往市区内各大旅游、购物、餐饮地点。",
+"ExtraInfos":[
+{
+"Title":"参考价格",
+"Contents":[
+"标准房240元起"
+]
+},
+{
+"Title":"星级",
+"Contents":[
+"4星"
+]
+},
+{
+"Title":"地址",
+"Contents":[
+"三亚市解放三路580号妇幼保健院旁"
+],
+"DataType":"Address"
+},
+{
+"Title":"电话",
+"Contents":[
+"0898-88657777"
+],
+"DataType":"Phone"
+}
+]
+}

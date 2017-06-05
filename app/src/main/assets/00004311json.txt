@@ -1,0 +1,21 @@
+{
+    "TypeName": "餐馆详情",
+    "Name": "鸿港水果市场",
+    "Location": {
+        "lat": "18.241487",
+        "lng": "109.512275"
+    },
+    "Level": "4",
+    "LevelDesc": "热带水果挑不停",
+    "Cover": "Restaurant10.jpg",
+    "Introduce": "又称为“三亚农副产品综合批发市场”，声名远扬，热带水果比比皆是，堪称热带水果博物馆。",
+	"ExtraInfos": [
+        {
+            "Title": "地址",
+            "Contents": [
+                "第一市场对面"
+            ],
+            "DataType": "Address"
+        }
+    ]
+}

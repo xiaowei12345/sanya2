@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:padding="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/iv_wenhao"
+        android:src="@mipmap/ic_wenhao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:paddingLeft="10dp"
+        android:id="@+id/title1"
+        android:text="title"
+        android:padding="5dp"
+        android:gravity="center"
+        android:lineSpacingExtra="9dp"
+        android:textSize="15sp"
+        android:layout_toRightOf="@id/iv_wenhao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/body1"
+        android:padding="5dp"
+        android:layout_marginTop="10dp"
+        android:lineSpacingExtra="9dp"
+        android:paddingTop="10dp"
+        android:layout_below="@id/iv_wenhao"
+        android:text="body"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</RelativeLayout>

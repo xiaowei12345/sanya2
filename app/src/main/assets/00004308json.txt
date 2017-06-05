@@ -1,0 +1,40 @@
+{
+    "TypeName": "餐馆详情",
+    "Name": "拾味馆",
+    "Location": {
+        "lat": "18.256760",
+        "lng": "109.506777"
+    },
+    "Level": "4",
+    "LevelDesc": "别致经济的地道小馆儿",
+    "Introduce": "有丰富的海南美食和海鲜美食，干净卫生。",
+	"ExtraInfos": [
+        {
+            "Title": "推荐菜",
+            "Contents": [
+                "拾味鱼扒  拾味骨汤  五指山野菜"
+            ]
+        },
+	{
+            "Title": "人均价格",
+            "Contents": [
+                "82元"
+            ]
+        },
+	{
+            "Title": "地址",
+            "Contents": [
+                "三亚湾路20号昌达海景花园1期B栋（近新风街）"
+            ],
+            "DataType": "Address"
+        },
+        {
+			"Title":"电话",
+			"Contents":[
+				"0898-88835566"
+			],
+			"DataType":"Phone"
+		}
+        
+    ]
+}

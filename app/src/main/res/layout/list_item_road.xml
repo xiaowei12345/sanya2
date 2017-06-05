@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                  android:orientation="vertical">
+        <TextView
+                android:id="@+id/tv_content1"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                  android:text="hhhhhhhhhhhhhhhh"/>
+        <TextView android:id="@+id/tv_content2"
+                  android:layout_marginBottom="10dp"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                  android:text="hhhhhhhhhhhhhhhh"/>
+    </LinearLayout>
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                  android:orientation="vertical">
+        <LinearLayout
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="15dp"
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:layout_height="wrap_content">
+            <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/favorites_list_item_icon_scene"/>
+            <TextView
+                    android:id="@+id/to_scenery"
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="18dp"
+                    android:text="亚龙湾旅游度假区"/>
+            <ImageView
+                    android:id="@+id/iv_forword"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/btn_forword"/>
+
+        </LinearLayout>
+        <ImageView android:layout_width="wrap_content" android:layout_height="100dp"
+                   android:scaleType="fitXY"
+                   android:id="@+id/photo1"
+                   android:src="@mipmap/scenery2"/>
+    </LinearLayout>
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                  android:orientation="vertical">
+        <LinearLayout
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="15dp"
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:layout_height="wrap_content">
+            <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/favorites_list_item_icon_scene"/>
+            <TextView
+                    android:id="@+id/to_scenery2"
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="18dp"
+                    android:text="热带天堂森林公园"/>
+            <ImageView
+                    android:id="@+id/iv_forword2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/btn_forword"/>
+
+        </LinearLayout>
+        <ImageView android:layout_width="wrap_content" android:layout_height="100dp"
+                   android:scaleType="fitXY"
+                   android:id="@+id/photo2"
+                   android:src="@mipmap/scenery3"/>
+    </LinearLayout>
+
+</LinearLayout>

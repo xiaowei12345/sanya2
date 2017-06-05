@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="30dp">
+        <ImageView
+                android:id="@+id/iv_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:background="@drawable/selector_btn_back"
+                />
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_weight="1"
+                  android:textSize="24dp"
+                  android:text="路线推荐"
+                  android:gravity="center"
+                />
+    </LinearLayout>
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:clickable="true"
+                  android:id="@+id/linearLayout_1"
+
+                  android:orientation="vertical">
+        <LinearLayout
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                >
+            <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ImageView android:layout_width="wrap_content"
+                           android:layout_height="wrap_content"
+                           android:src="@mipmap/bg_luxian"
+                        />
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="#0000ff"
+                        android:textSize="20dp"
+                        android:layout_marginLeft="80dp"
+                        android:gravity="center"
+                        android:text="浪漫两日游"
+                        />
+            </RelativeLayout>
+            <ImageView android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:src="@mipmap/btn_forword"
+                    />
+
+        </LinearLayout>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                  android:singleLine="false"
+                  android:textSize="18dp"
+                  android:text="来这里偷得浮生半日闲，和恋人一起感受冬日暖阳，西沙椰风的浪漫。"/>
+    </LinearLayout>
+
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:clickable="true"
+                  android:id="@+id/linearLayout_2"
+
+                  android:orientation="vertical">
+        <LinearLayout
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_width="match_parent"
+                android:onClick="click"
+                android:gravity="center"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                >
+            <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ImageView android:layout_width="wrap_content"
+                           android:layout_height="wrap_content"
+                           android:src="@mipmap/bg_luxian"
+                        />
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="#0000ff"
+                        android:textSize="20dp"
+                        android:layout_marginLeft="80dp"
+                        android:gravity="center"
+                        android:text="休闲四日游"
+                        />
+            </RelativeLayout>
+            <ImageView android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:src="@mipmap/btn_forword"
+                    />
+
+        </LinearLayout>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                  android:singleLine="false"
+                  android:textSize="18dp"
+                  android:text="来这个顶级度假胜地，除了无尽的美景，更要吃海鲜，泡温泉，在沙滩烧烤，去深海潜游，激活你沉睡已久的身体！"/>
+    </LinearLayout>
+
+</LinearLayout>

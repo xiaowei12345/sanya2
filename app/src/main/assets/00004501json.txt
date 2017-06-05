@@ -1,0 +1,49 @@
+{
+    "TypeName": "线路详情",
+    "Name": "经典两日游 ",
+    "Introduce": "来这里偷得浮生半日闲，和恋人一起感受冬日暖阳，西沙椰风的浪漫。",
+    "Routes": [
+        {
+            "Title": "亚龙湾 - 热带天堂森林公园",
+            "Summary": [
+                "上午在沙滩大海亲密接触。",
+				"乘坐25路公交去热带天堂森林公园，重温非诚勿扰2的浪漫，看鸟巢过索道。"
+            ],
+            "Filmstrips": [
+                {
+                    "PicUrl": "Scene1.jpg",
+                    "Title": "亚龙湾旅游度假区",
+                    "KeyID": "00004101",
+                    "DataPath": "00004101json.txt"
+                },
+                {
+                    "PicUrl": "Scene5.jpg",
+                    "Title": "热带天堂森林公园",
+                    "KeyID": "00004102",
+                    "DataPath": "00004102json.txt"
+                }
+            ]
+        },
+        {
+            "Title": "蜈支洲岛 - 南田温泉",
+            "Summary": [
+                "上午去蜈支洲岛体验各种海上运动，感受中国第一潜水宝地的魅力。",
+                "下午去附近的南天温泉泡温泉，放松一下。"
+            ],
+            "Filmstrips": [
+                {
+                    "PicUrl": "Scene7.jpg",
+                    "Title": "蜈支洲岛",
+                    "KeyID": "00004103",
+                    "DataPath": "00004103json.txt"
+                },
+                {
+                    "PicUrl": "Scene8.jpg",
+                    "Title": "南田温泉",
+                    "KeyID": "00004104",
+                    "DataPath": "00004104json.txt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+"TypeName":"住宿详情",
+"Name":"三亚蓝天国际青年旅舍",
+"Cover":"Hotel8.jpg",
+    "Location": {
+        "lat": "18.22886",
+        "lng": "109.528192"
+    },
+"Level":"3",
+"LevelDesc":"3分钟步行去海滩",
+"Introduce":"位于大东海广场西侧的蓝海巷里，交通便利，而且不临马路，晚上非常安静。从旅舍步行去大东海沙滩，只需要3分钟，可以直接在房间里换好泳装，带上沙滩浴巾去海滩。",
+"ExtraInfos":[
+{
+"Title":"参考价格",
+"Contents":[
+"RMB200一晚起"
+]
+},
+{
+"Title":"星级",
+"Contents":[
+"无"
+]
+},
+{
+"Title":"地址",
+"Contents":[
+"三亚市海韵路蓝海巷1号"
+],
+"DataType":"Address"
+},
+{
+"Title":"电话",
+"Contents":[
+"0898-88211770"
+],
+"DataType":"Phone"
+}
+]
+}

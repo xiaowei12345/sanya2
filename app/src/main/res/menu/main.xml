@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/QB"
+        android:orderInCategory="100"
+        android:title="全部"/>
+    <item
+        android:id="@+id/JD"
+        android:orderInCategory="100"
+        android:title="景点"/>
+    <item
+        android:id="@+id/GW"
+        android:orderInCategory="100"
+        android:title="购物"/>
+    <item
+        android:id="@+id/MS"
+        android:orderInCategory="100"
+        android:title="美食"/>
+    <item
+        android:id="@+id/ZS"
+        android:orderInCategory="100"
+        android:title="住宿"/>
+</menu>

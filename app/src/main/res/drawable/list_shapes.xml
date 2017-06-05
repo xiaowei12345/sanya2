@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- 用于描边:按钮转圈先的颜色 -->
+    <stroke android:width="0.5dp" android:color="#3d3d3d"/>
+
+</shape>

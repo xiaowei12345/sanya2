@@ -1,0 +1,13 @@
+{
+    "TypeName": "行前必读 - 最佳旅游时间",
+    "Infos": [
+       
+        {
+            "DataType": "Text",
+            "Contents": [
+                "11月到次年3月"
+            ]
+        }
+    ]
+}
+

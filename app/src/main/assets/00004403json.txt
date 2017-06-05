@@ -1,0 +1,47 @@
+{
+"TypeName":"住宿详情",
+"Name":"万达三亚海棠湾希尔顿逸林度假酒店",
+"Cover":"Hotel3.jpg",
+    "Location": {
+        "lat": "18.324678",
+        "lng": "109.736197"
+    },
+"Level":"4",
+"LevelDesc":"足不出户，面朝大海，春暖花开",
+"Introduce":"酒店硬件设施很好，足不出酒店就能享受到天然的沙滩和大海。海棠湾正在开发，所以人少，酒店环境比较清静。",
+"ExtraInfos":[
+{
+"Title":"参考价格",
+"Contents":[
+"海景房1100元起"
+]
+},
+{
+"Title":"星级",
+"Contents":[
+"5星"
+]
+},
+{
+"Title":"地址",
+"Contents":[
+"海棠湾海棠路"
+],
+"DataType":"Address"
+},
+{
+"Title":"电话",
+"Contents":[
+"0898-88826688"
+],
+"DataType":"Phone"
+},
+{
+"Title":"网站",
+"Contents":[
+"http://www.wandahiltonhotel.com/"
+],
+"DataType":"Website"
+}
+]
+}

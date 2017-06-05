@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#303F9F</color>
+    <color name="xl">#fff20111</color>
+    <color name="ms">#ffffa940</color>
+    <color name="gw">#ff2f61b7</color>
+    <color name="zs">#ff55b638</color>
+    <color name="jt">#ffff4043</color>
+    <color name="yj">#ff4056ff</color>
+    <color name="text">#88000000</color>
+    <color name="colorText">#0094fe</color>
+    <color name="rl_pressed">#D3D3D3</color>
+    <color name="rl_normal">#00ffffff</color>
+    <color name="popup">#3c3c3c</color>
+
+    <color name="colorPrimary2">#80E6FF</color>
+    <color name="colorPrimaryDark2">#80E6FF</color>
+    <color name="colorPrimary3">#00CCFF</color>
+    <color name="colorPrimaryDark3">#00CCFF</color>
+    <color name="colorPrimary4"> #FFFFFF</color>
+    <color name="colorPrimaryDark4">#FFFFFF</color>
+
+    <color name="color_999999">#999999</color>
+    <color name="color_eeeeee">#eeeeee</color>
+    <color name="color_ffffff">#ffffff</color>
+    <color name="color_c61a04">#c61a04</color>
+    <color name="color_cccccc">#cccccc</color>
+    <color name="color_d81e06">#d81e06</color>
+    <color name="color_b0b8b2">#b0b8b2</color>
+    <color name="trans">#00000000</color>
+
+    <color name="ccloudmi_ios_alertdialog_line">#c6c6c6</color>
+    <color name="ccloudmi_ios_actionsheet_blue">#037BFF</color>
+    <color name="ccloudmi_ios_actionsheet_red">#FD4A2E</color>
+    <color name="ccloudmi_ios_actionsheet_gray">#8F8F8F</color>
+    <color name="ripple">#F06292</color>
+    <color name="accent">#E91E63</color>
+    <color name="accent_pressed">#C2185B</color>
+    <color name="green">#f2f3f5</color>
+    <color name="serch_background">#e6e6e6</color>
+    <color name="background">#eeeeee</color>
+    <color name="xian">#dddddd</color>
+    <color name="ym_green">#6bc744</color>
+    <color name="ym_orange">#ffa837</color>
+    <color name="ym_gray_q">#999</color>
+    <color name="ym_gray_s">#9c9c9c</color>
+    <color name="ym_black">#000000</color>
+    <color name="result_view">#f8f8f8</color>
+    <color name="ym_blue">#20C9A8</color>
+    <color name="ym_pink">#ff6e6e</color>
+    <color name="zi_ti">#666666</color>
+    <color name="zi_ti_qian">#999999</color>
+    <color name="popup_main_background">#b0000000</color>
+    <color name="choose_eara_item_press_color">#f4f4f4</color>
+    <color name="no_color">#00000000</color>
+
+
+    <color name="list_itease_secondary_color">#888888</color>
+    <color name="list_itease_primary_color">#000</color>
+    <color name="list_item_secondary_color">#888888</color>
+    <color name="list_item_primary_color">#000</color>
+
+    <color name="app_overall">#FF3600</color>
+    <color name="SSBJ">#F9F9F9</color>
+    <color name="emojicon_tab_selected">#D9D9D9</color>
+    <color name="emojicon_tab_nomal">#ffffff</color>
+
+    <color name="greens">#f9f9f9</color>
+    <color name="white">#fafafa</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="app_color">#ff6cb506</color>
+
+    <color name="background_tab_pressed">#FFFFFF</color>
+    <color name="ba">#B7B7B7</color>
+    <color name="dark">#4f4f4f</color>
+    <color name="gold">#d78f2f</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="gray">#9c9c9c</color>
+    <color name="lightgray">#a0a0a0</color>
+    <color name="darkgray">#7b7b7b</color>
+    <color name="dimgray">#5b5b5b</color>
+    <color name="red">#ff0000</color>
+    <color name="pink">#f76d6d</color>
+    <color name="blue">#0000ff</color>
+    <color name="brown">#f2af19</color>
+    <color name="brown2">#e5e5e5</color>
+    <color name="btn_login_press">#a83a3a</color>
+    <color name="btn_login_normal">#f15353</color>
+    <color name="btn_login_disabled">#e1e1e3</color>
+    <color name="voip_interface_text_color">#bababa</color>
+    <color name="black">#000000</color>
+    <color name="bacground_login_disabled">#f8f8f8</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="primary_light">#C8E6C9</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="light_gold">#ccca6e</color>
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <color name="holo_green_light">#ff99cc00</color>
+    <color name="holo_orange_light">#ffffbb33</color>
+    <color name="holo_red_light">#ffff4444</color>
+    <color name="grid_state_pressed">#1Affffff</color>
+    <color name="grid_state_focused">#80000000</color>
+    <color name="expand_popup_background">#b0000000</color>
+    <color name="expand_item_color">#f4f4f4</color>
+    <color name="ui_base_gray">#DDDBDB</color>
+    <color name="trantracent_wode">#55000000</color>
+    <color name="deep_transparent">#bb000000</color>
+    <color name="grey_text_color_normal">#8A8A8A</color>
+    <color name="grey_line_bg">#E4E4E4</color>
+    <color name="original_border_color">#F18459</color>
+    <color name="grey_normal_bg">#EEEEEE</color>
+</resources>

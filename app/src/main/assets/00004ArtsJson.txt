@@ -1,0 +1,198 @@
+{
+    "TypeName": "实用信息 - 文化周边",
+    "Infos": [
+        {
+            "DataType": "Title",
+            "Contents": [
+                "电影"
+            ]
+        },
+	        {
+            "DataType": "SubTitle",
+            "Contents": [
+                "非诚勿扰2"
+            ]
+        },
+	 {
+            "DataType": "Text",
+            "Contents": [
+                "导演: 冯小刚 "
+            ]
+        },
+        {
+            "DataType": "Text",
+            "Contents": [
+                "主演：葛优，舒淇，孙红雷，姚晨 "
+            ]
+        },
+        {
+            "DataType": "Text",
+            "Contents": [
+                "类型：剧情，喜剧，爱情"
+            ]
+        },	
+        {
+            "DataType": "Text",
+            "Contents": [
+                "制片国家/地区：中国大陆"
+            ]
+        },
+        {
+            "DataType": "Image",
+            "Contents": [
+                "00004Art01.jpg"
+            ]
+        },
+		
+        {
+            "DataType": "Text",
+            "Contents": [
+                "《非诚勿扰2》的故事顺延着上一部的脉络进行：从北海道回来后，笑笑对秦奋的感觉止步于好感。求婚不成的秦奋与笑笑商量决定两人先看看对方到底合适不合适，于是他在三亚租了一套别墅，正式开始了和笑笑“试婚”的日子。一次，笑笑醉酒后，承认自己对秦奋的感情不是爱情，两人日渐疏远，秦奋回到北京，笑笑和秦奋在一次晚会上相遇，最终两人再次走到一起。"
+            ]
+        },
+	        {
+            "DataType": "SubTitle",
+            "Contents": [
+                "Hold住爱"
+            ]
+        },
+	 {
+            "DataType": "Text",
+            "Contents": [
+                "导演: 张琦 "
+            ]
+        },
+        {
+            "DataType": "Text",
+            "Contents": [
+                "主演：杨幂 刘恺威 周秀娜"
+            ]
+        },
+        {
+            "DataType": "Text",
+            "Contents": [
+                "类型：喜剧、爱情"
+            ]
+        },
+        {
+            "DataType": "Image",
+            "Contents": [
+                "00004Art02.jpg"
+            ]
+        },
+	
+        {
+            "DataType": "Text",
+            "Contents": [
+                "讲述的是杨幂和刘恺威饰演的80后年轻小夫妻被大奖砸中，共赴三亚进行蜜月之旅。期间，二人遭遇种种离奇事件，正是这些遭遇让两人学会了如何用正确的爱的方式爱对方。"
+            ]
+        },
+       
+        {
+            "DataType": "Title",
+            "Contents": [
+                "书籍"
+            ]
+        },
+        {
+            "DataType": "SubTitle",
+            "Contents": [
+                "阳光三亚 —天堂不过如此美丽"
+            ]
+        },
+	{
+            "DataType": "Text",
+            "Contents": [
+                "作者：李晓洁，许洁煌，何桂嫦"
+            ]
+        },
+        {
+            "DataType": "Image",
+            "Contents": [
+                "00004Art03.jpg"
+            ]
+        },
+		 
+        {
+            "DataType": "Text",
+            "Contents": [
+                "书中介绍了，三亚旅游的方方面面。三亚集阳光、海水、沙滩、气候、森林等旅游资源于一身。当地工艺及土特产品有海水珍珠制品、贝壳及其制品、“崖州三珍”(鱼翅、鲍鱼、海参)等海产品又非常丰富。只要用心感受，每个人都会迷恋上北纬18度的度假天堂。这就是三亚的魅力。"
+            ]
+        },
+       
+        {
+            "DataType": "SubTitle",
+            "Contents": [
+                "三亚海棠湾乡土人文录"
+            ]
+        },
+	{
+            "DataType": "Text",
+            "Contents": [
+                "作者：朱兴琦"
+            ]
+        },
+        {
+            "DataType": "Image",
+            "Contents": [
+                "00004Art04.jpg"
+            ]
+        },
+	
+	
+        {
+            "DataType": "Text",
+            "Contents": [
+                "这本书，它不论是述事论人、抒情咏物方面，都能扎扎实实、明明白白告诉读者，给你留下难忘的印象。我想它具有“经世致用”、“垂鉴后世”、给子孙后代留下珍贵的财富。为三亚海棠湾的开发建设提供借鉴，对来投资或参与开发的商贾和旅游度假的游客，具有很好的“向导”作用。"
+            ]
+        },
+        
+        {
+            "DataType": "Title",
+            "Contents": [
+                "音乐"
+            ]
+        },
+	 {
+            "DataType": "Text",
+            "Contents": [
+                "演唱者：沈小岑"
+            ]
+        },
+        {
+            "DataType": "SubTitle",
+            "Contents": [
+                "请到天涯海角来"
+            ]
+        },
+       
+	
+        {
+            "DataType": "Text",
+            "Contents": [
+                "创作于1982年，这首歌是广东流行乐坛第一首具有全国影响力的原创通俗歌曲。它不仅让演唱者沈小岑从一个默默无闻的建筑工人成为一个炙手可热的明星，同时也为海南岛做了立体广告，让海南人民至今铭记于心。"
+            ]
+        },
+       
+        {
+            "DataType": "SubTitle",
+            "Contents": [
+                "美丽三亚，浪漫天涯"
+            ]
+        },
+	{
+            "DataType": "Text",
+            "Contents": [
+                "演唱者：丁晓红"
+            ]
+        },
+        {
+            "DataType": "Text",
+            "Contents": [
+                "这首歌以三亚为背景，描述了三亚优美的热带海滨风光。歌名就是三亚的城市名片，美丽三亚，浪漫天涯。同时它也是三亚的形象歌曲。"
+            ]
+        }
+        
+    ]
+}
+

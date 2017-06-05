@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              >
+    <RelativeLayout android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                   >
+        <ImageView android:id="@+id/iv_travel_photo"
+                android:layout_width="match_parent" android:layout_height="150dp"
+                   android:src="@mipmap/tarvel1"
+                   android:scaleType="centerCrop"
+                />
+        <LinearLayout android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:background="#88000000"
+                      android:orientation="vertical"
+                      android:layout_alignParentRight="true"
+                      android:layout_centerVertical="true"
+                      android:id="@+id/linearLayout">
+
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                      android:id="@+id/tv_travel_title"
+                      android:textSize="15dp"
+                      android:text="浮生半日闲"
+                      android:textColor="#ffffff"
+                      android:ellipsize="end"/>
+            <TextView android:id="@+id/tv_travel_time"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                      android:textSize="10dp"
+                      android:text="2017.5.10"
+                      android:textColor="#ffffff"
+                      android:ellipsize="end"/>
+            <TextView android:id="@+id/tv_travel_author"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                      android:textSize="10dp"
+                      android:text="作者"
+                      android:textColor="#ffffff"
+                      android:ellipsize="end"/>
+
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

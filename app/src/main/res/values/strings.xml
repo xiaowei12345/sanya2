@@ -1,0 +1,64 @@
+<resources>
+    <string name="gogogo">出发三亚</string>
+    <string name="scenery">景点</string>
+    <string name="beforego">行前必读</string>
+    <string name="message">实用信息</string>
+    <string name="road">路线推荐</string>
+    <string name="shop">购物</string>
+    <string name="stay">住宿</string>
+    <string name="food">食物</string>
+    <string name="traffic">交通</string>
+    <string name="travel">游记</string>
+    <string name="beforego2">行前必读-</string>
+    <string name="askresponse">有问必答</string>
+    <string name="thing">必备物品</string>
+    <string name="arrive">到达与离开</string>
+    <string name="loadtraffic">当地交通</string>
+    <string name="traffic2">交通-</string>
+    <string name="ddtc">当地特产</string>
+    <string name="gwdtj">购物点推荐</string>
+    <string name="shop2">购物-</string>
+    <string name="tsxc">特色小吃</string>
+    <string name="tjcg">推荐餐馆</string>
+    <string name="food2">美食-</string>
+    <string name="tip">小贴士</string>
+    <string name="tshd">特色活动</string>
+    <string name="csgl">城市概览</string>
+    <string name="whzb">文化周边</string>
+    <string name="message2">特色信息-</string>
+
+    <string name="first_title">椰风海韵，醉在亚龙湾</string>
+    <string name="first_content">温暖的海风吹拂,光着脚丫踩在柔和的沙滩上，让浮华的心平静下来。</string>
+    <string name="second_title">清新空气，深入雨林探秘</string>
+    <string name="second_content">深入呀若哒雨林或热带天堂森林公园，大口吸入清新空气，感受探索神秘热带雨林的乐趣。</string>
+    <string name="third_title">美丽岛屿，潜入蜈支洲的海底</string>
+    <string name="third_content">蜈支洲岛是中国第一潜水基地，换个角度看世界，让色彩斑斓的珊瑚调剂单调的生活。</string>
+    <string name="fourth_title">安静海滨，漫步椰梦长廊</string>
+    <string name="fourth_content">在椰梦长廊欣赏傍晚日落，看看收网渔民劳动的情景，呼吸温润的海风，生活居然能这么享受！</string>
+    <string name="fifth_title">慰藉心灵，参拜海上观音</string>
+    <string name="fifth_content">在南山寺参拜观音，祈求未来，沉静浮躁的心。同时感受唐朝风格建筑与山、水的交融。</string>
+    <string name="sixth_title">大饱口福，享受生猛海鲜</string>
+    <string name="sixth_content">风和日丽的日子，买上几斤返航的船只刚刚捕获的鱼虾，用三亚烹调方法尝尝海的味道。</string>
+    <string name="hint_login_username">请输入手机号码</string>
+    <string name="hint_login_password">输入密码</string>
+    <string name="login">登录</string>
+    <string name="login_forget_pwd">忘记密码</string>
+    <string name="please_input_limit_pwd">请输入数字或字母</string>
+    <string name="clean">"清除所有数据"</string>
+    <string name="about">关于</string>
+    <string name="delete">删除</string>
+    <string name="are_you_sure">确认删除？</string>
+    <string name="close">关闭</string>
+    <string name="cancel">取消</string>
+    <string name="title">起个名字</string>
+    <string name="content">写点什么呢~</string>
+    <string name="add_picture">添加照片</string>
+    <string name="exit">再按一次，退出程序</string>
+    <string name="empty">未添加笔记</string>
+
+
+    <string-array name="pic">
+        <item>照相机</item>
+        <item>相册</item>
+    </string-array>
+</resources>

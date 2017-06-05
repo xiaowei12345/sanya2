@@ -1,0 +1,4 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@mipmap/btn_ditu_pressed"></item>
+    <item android:drawable="@mipmap/btn_ditu_normal"></item>
+</selector>

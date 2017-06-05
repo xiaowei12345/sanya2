@@ -1,0 +1,47 @@
+{
+"TypeName":"住宿详情",
+"Name":"维景国际度假酒店",
+"Cover":"Hotel10.jpg",
+    "Location": {
+        "lat": "18.23648",
+        "lng": "109.643661"
+    },
+"Level":"4",
+"LevelDesc":"私家海滩的宁静假期",
+"Introduce":"别墅式酒店，自助餐种类很多，去酒店私有海滩电瓶车接送，5分钟车程，很方便。不过去其他地方不是很方便。 。这个价格在香港真的是超级便宜了，周围环境也很好，住宿条件很干净，背包客们可以考虑这家哦！",
+"ExtraInfos":[
+{
+"Title":"参考价格",
+"Contents":[
+"园景房RMB1100起"
+]
+},
+{
+"Title":"星级",
+"Contents":[
+"5星"
+]
+},
+{
+"Title":"地址",
+"Contents":[
+"亚龙湾国际旅游度假区"
+],
+"DataType":"Address"
+},
+{
+"Title":"电话",
+"Contents":[
+"0898-88598888"
+],
+"DataType":"Phone"
+},
+{
+"Title":"网站",
+"Contents":[
+"http://www.hksygm.com/zh-cn/"
+],
+"DataType":"Website"
+}
+]
+}

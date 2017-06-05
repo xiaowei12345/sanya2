@@ -1,0 +1,45 @@
+{
+	"TypeName":"购物 - 当地特产",
+	"Infolist":[
+	{
+		"Title":"珍珠水晶",
+		"PicUrl":"Restaurant11.jpg",
+		"Desc":"三亚生产的南珠极负盛名。羊栏水晶矿的石头是给恋人最好的礼物。",
+	    "attachID":"", 
+	    "attachName":"",
+            "attachSource":"" 
+	},
+	{
+		"Title":"海产干品",
+		"PicUrl":"Restaurant12.jpg",
+		"Desc":"见过成捆的海蛇、成码的虾肉球、比人还高的海鱼干么？这些在三亚鸿港海鲜批发市场都可以买的到，一定不要吝惜都带些回去。",
+	    "attachID":"00004204",  
+	    "attachName":"推荐购买地：旺豪超市",
+            "attachSource":"00004204json.txt" 
+	},
+	{
+		"Title":"水果",
+		"PicUrl":"Restaurant13.jpg",
+		"Desc":"从最闻名遐迩的椰子，到人人爱不释手的芒果，再到闻所未闻的奇葩水果。三亚水果的种类多到一口气数不过来。",
+	    "attachID":"00004202", 
+	    "attachName":"推荐购买地：第一市场",
+            "attachSource":"00004202json.txt" 
+	},
+	{
+		"Title":"岛服",
+		"PicUrl":"Restaurant14.jpg",
+		"Desc":"三亚的岛服随处可买，从十几元到上百元不等。主要有三大品牌：丝妮娅、阳光岛和椰风海韵，都是上好的丝光面料。其实岛服的关键点不在面料，而在于：一定要花哨！",
+	    "attachID":"",  
+	    "attachName":"",
+            "attachSource":"" 
+	},
+	{
+		"Title":"贝壳制品",
+		"PicUrl":"Restaurant15.jpg",
+		"Desc":"可作烟灰缸的马蹄螺、作号角的大角螺、还有1元/串的贝壳片手链，你想到想不到的贝壳样式，在三亚都可以采买到。当然，有时间的话，亲自捡贝壳也是很好的选择。",
+	    "attachID":"00004204",  
+	    "attachName":"推荐购买地：旺豪超市",
+            "attachSource":"00004204json.txt" 
+	}
+	]
+}
